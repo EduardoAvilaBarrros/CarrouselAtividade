@@ -8,6 +8,10 @@ body {
     padding-bottom: 3rem;
     color: #ffffff;
   }
+
+  .fontemodal{
+    color: #000000 !important;
+  }
   
   
   /* CUSTOMIZA O CAROUSEL
